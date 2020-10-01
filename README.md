@@ -43,3 +43,10 @@ Use these steps to clone from SourceTree, our client for using the repository co
 4. Open the directory you just created to see your repository’s files.
 
 Now that you're more familiar with your Bitbucket repository, go ahead and add a new file locally. You can [push your change back to Bitbucket with SourceTree](https://confluence.atlassian.com/x/iqyBMg), or you can [add, commit,](https://confluence.atlassian.com/x/8QhODQ) and [push from the command line](https://confluence.atlassian.com/x/NQ0zDQ).
+
+## Create an issue
+
+You can easily create an issue for the rest of the fellow creators to know that you are stuck in a problem, so that they may want to help.
+1. You'll see the new issue button in the **Issues** tab of the repository.
+2. Click on the **Issues** tab and then on the new issue button.
+3. Now frame the issue that you are facing specifying the area and leave the rest to the fellow developers.
